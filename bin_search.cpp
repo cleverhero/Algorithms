@@ -81,7 +81,7 @@ void bin_search_lower() {
 	}
 }
 
-void bin_search_lower() {
+void bin_search_upper() {
 	vector<int> arr = { 1, 2, 2, 4, 4, 4, 4, 4, 4, 4, 9, 9, 9, 9 };
 
 	for (int it = 0; it < 100; it++) {
